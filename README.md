@@ -1,2 +1,3 @@
 # 🐔PetFinderApp
-Aplicación para encontrar y/o publicar mascotas perdidas.
+Mobile app to find and/or post lost pets.
+https://pet-finder-livid.vercel.app/
